@@ -1,0 +1,1 @@
+-e "node_modules/\nvendor/\n.env\n.DS_Store" 
